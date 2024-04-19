@@ -20,11 +20,11 @@
 
 ##
 
-### [CyberLab Paper]
+### [CyberLab Paper](https://github.com/erykahedwards2/-Home-Cybersecurity-Training-Lab/blob/main/IF-CS%20P1%20Final%20Paper%20Virtual%20Home%20Cybersecurity%20Training%20Lab-1.pdf)
 - Paper describing the lab and project.
   - (What exactly are each of these security components, applications, tools, features?) Why are each so important?
 
 ##
 
-### [Training Lab Powerpoint Presentation]
+### [Training Lab Powerpoint Presentation](https://github.com/erykahedwards2/-Home-Cybersecurity-Training-Lab/blob/main/IF-CS%20P1%20Final%20Home%20Virtual%20Training%20Lab%20PowerPoint.pdf)
 - Summary presentation on each lab components’ use case in cybersecurity and the value of having access to such a lab environment.
