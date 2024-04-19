@@ -1,4 +1,4 @@
-# -Home-Cybersecurity-Training-Lab
+# Home-Cybersecurity-Training-Lab
 ### Creation of a home cybersecurity training lab that includes the following component requirements: 
 - Kali Linux or personalized attack machine
 - (PfSense or OPNsense) Firewall
