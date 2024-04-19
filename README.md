@@ -6,3 +6,8 @@
 - (Snort or Suricata) Intrusion Detection/Prevention System
 - (Wazuh or Splunk) Security Information and Event Management (SIEM) tool
 - Metasploitable2 target/victim VM machine
+
+##
+
+### Network Topology
+![Network Topology](https://github.com/erykahedwards2/-Home-Cybersecurity-Training-Lab/blob/main/Screenshot%202024-04-19%20154639.png)
